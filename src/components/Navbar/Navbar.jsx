@@ -15,4 +15,4 @@ function Navbar() {
         </header>
     );
 }
-export default Nevbar
+export default Navbar
