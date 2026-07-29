@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <header className="site-header">
             <nav className="navbar">
-                <div className="logo">SD</div>
+                <div className="logo">WELCOME❤️</div>
                 <ul className="nav-links">
                     <li><a href="#about">About</a></li>
                     <li><a href="#skills">Skills</a></li>
@@ -15,4 +15,4 @@ function Navbar() {
         </header>
     );
 }
-export default Nevbar
+export default Navbar
